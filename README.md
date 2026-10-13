@@ -14,4 +14,11 @@ with no server. It shows why each move was chosen, replays classic games, and re
 accuracy on 677 held-out master positions (31.8% top-1 vs 7.1% for a random legal move).
 
 ## Tools
-Python · JavaScript · React · Vite · PyTorch · ONNX · Git
+**Languages:** Python · Java · JavaScript · TypeScript · SQL · HTML
+
+**Frameworks & libraries:** React · Node.js/Express · Flask · FastAPI · PyTorch · Pandas · NumPy · ONNX Runtime · boto3 · Vite · Tailwind CSS · Vitest
+
+**Platforms & tools:** AWS · PostgreSQL · Supabase · Firebase · Deno · Vercel · Stripe · OpenAI API · Anthropic API · Git/GitHub
+
+## Contact
+[LinkedIn](https://www.linkedin.com/in/jeremiahjchoi/)
